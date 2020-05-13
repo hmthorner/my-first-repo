@@ -1,28 +1,24 @@
-# This is a large heading
+# Me
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Washington DC in the United States of America
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
+ - *The Immortal Life of Henrietta Lacks* by Rebecca Skloot
+- *Quiet* by Susan Cain
+- *All the Light We Cannot See* by Anthony Doerr
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+Last night I dreamt about eating in these restaurants:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Angeline's in Berkeley
+2. Uno in Chicago
+3. Homeroom in Oakland
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+The best way to get in touch with me is [on Facebook](https://facebook.com)
